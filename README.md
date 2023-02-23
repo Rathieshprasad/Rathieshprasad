@@ -2,6 +2,7 @@
 🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://github.com/RathieshPrasad<br><br>📫 How to reach me rathiesh2002@gmail.com<br><br>⚡ Fun fact People Read Screens Slower Than Physical Pages
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathiesh-prasad-959703250) 
 
