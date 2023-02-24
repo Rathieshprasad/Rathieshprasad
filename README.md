@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rathiesh Prasad</h1>
+
 # 💫 About Me:
 🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://github.com/RathieshPrasad<br><br>📫 How to reach me rathiesh2002@gmail.com<br><br>⚡ Fun fact People Read Screens Slower Than Physical Pages
 
